@@ -53,11 +53,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDCuNmHv0wpSaCMYDhCvTisdahD38V2_T8',
-    appId: '1:673032328540:android:1ed7bb1008dd71dde95d99',
-    messagingSenderId: '673032328540',
-    projectId: 'learning-2dcf0',
-    databaseURL: 'https://learning-2dcf0-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'learning-2dcf0.appspot.com',
+    apiKey: 'apikey',
+    appId: 'id',
+    messagingSenderId: 'id',
+    projectId: 'id',
+    databaseURL: 'url',
+    storageBucket: 'bucket',
   );
 }
